@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag.mp3", "Tag.mp3\Tag.mp3.csproj", "{6AB02780-1E5F-4A61-87A3-A8C284792DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag.AMG", "Tag.AMG\Tag.AMG.csproj", "{B2AFF108-FAAB-49D8-AC58-0E7FB10F0EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag.Utility", "Tag.File\Tag.Utility.csproj", "{CAEA86E2-9573-4EE8-9218-F64276F9CF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag.UI", "Tag.UI\Tag.UI.csproj", "{FA3F3977-8D9A-4CB1-A744-6585DE7678D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack", "..\HtmlAgilityPack20\HtmlAgilityPack\HtmlAgilityPack.csproj", "{193BB801-054F-4729-9D5D-FCE1E32594BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag.LyricsDotCom", "Tag.LyricsDotCom\Tag.LyricsDotCom.csproj", "{5BDC0AE2-BD8D-48B2-B927-C8946F5887E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag.LyricsHead", "Tag.LyricsHead\Tag.LyricsHead.csproj", "{4A1E024B-354D-42A3-8D5F-3EF87AEB7F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taglib-sharp", "Taglib-Sharp 2.0.3.0\taglib-sharp.csproj", "{4CC18776-125E-4318-9D24-D60110AD9697}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Tag.AMG\\Tag.AMG.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = Tag.AMG\\
+		SccProjectUniqueName2 = Tag.File\\Tag.Utility.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Tag.File\\
+		SccProjectUniqueName3 = Tag.mp3\\Tag.mp3.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = Tag.mp3\\
+		SccProjectUniqueName4 = Tag.UI\\Tag.UI.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = Tag.UI\\
+		SccProjectUniqueName5 = Tag.LyricsDotCom\\Tag.LyricsDotCom.csproj
+		SccLocalPath5 = .
+		SccProjectFilePathRelativizedFromConnection5 = Tag.LyricsDotCom\\
+		SccProjectUniqueName6 = Tag.LyricsHead\\Tag.LyricsHead.csproj
+		SccLocalPath6 = .
+		SccProjectFilePathRelativizedFromConnection6 = Tag.LyricsHead\\
+		SccProjectUniqueName7 = Taglib-Sharp\u00202.0.3.0\\taglib-sharp.csproj
+		SccLocalPath7 = .
+		SccProjectFilePathRelativizedFromConnection7 = Taglib-Sharp\u00202.0.3.0\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB02780-1E5F-4A61-87A3-A8C284792DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB02780-1E5F-4A61-87A3-A8C284792DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB02780-1E5F-4A61-87A3-A8C284792DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB02780-1E5F-4A61-87A3-A8C284792DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AFF108-FAAB-49D8-AC58-0E7FB10F0EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AFF108-FAAB-49D8-AC58-0E7FB10F0EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AFF108-FAAB-49D8-AC58-0E7FB10F0EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AFF108-FAAB-49D8-AC58-0E7FB10F0EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEA86E2-9573-4EE8-9218-F64276F9CF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEA86E2-9573-4EE8-9218-F64276F9CF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEA86E2-9573-4EE8-9218-F64276F9CF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEA86E2-9573-4EE8-9218-F64276F9CF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3F3977-8D9A-4CB1-A744-6585DE7678D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3F3977-8D9A-4CB1-A744-6585DE7678D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3F3977-8D9A-4CB1-A744-6585DE7678D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3F3977-8D9A-4CB1-A744-6585DE7678D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193BB801-054F-4729-9D5D-FCE1E32594BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDC0AE2-BD8D-48B2-B927-C8946F5887E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDC0AE2-BD8D-48B2-B927-C8946F5887E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDC0AE2-BD8D-48B2-B927-C8946F5887E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDC0AE2-BD8D-48B2-B927-C8946F5887E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1E024B-354D-42A3-8D5F-3EF87AEB7F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1E024B-354D-42A3-8D5F-3EF87AEB7F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1E024B-354D-42A3-8D5F-3EF87AEB7F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1E024B-354D-42A3-8D5F-3EF87AEB7F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
